@@ -65,4 +65,4 @@ Note that this implementation is a simplified version of a B+ tree database and 
 ### References
 
 - [B+ tree - Wikipedia](https://en.wikipedia.org/wiki/B%2B_tree)
-- [Introduction to Database Systems, Chapter 10 - B+ Trees](https://www.db-book.com/db7/slides-dir/PPT-dir/ch10.ppt)
+- [Introduction to Database Systems CSE 444, Lecture 15 - Data Storage and Indexes ](https://courses.cs.washington.edu/courses/cse444/09sp/lectures/lecture15.pdf)
